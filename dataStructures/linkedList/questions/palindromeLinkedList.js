@@ -71,7 +71,7 @@ const isPalindrome = (head) => {
 };
 
 // reverse the right half of linkedList and compared.
-//only need Space O(1)
+// only need Space O(1)
 const isPalindrome = (head) => {
   if (head == null || head.next == null) {
     return true;
