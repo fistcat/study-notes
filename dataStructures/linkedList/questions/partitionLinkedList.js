@@ -1,3 +1,6 @@
+// Partition List
+// https://leetcode.com/problems/partition-list/submissions/
+
 // LinkedList partitiion can be done in easier way by put every node into array and doing partition inside the array
 // then connect every elements in array after partition to form new list. however this will take Space of O(N) due to created new array.
 
